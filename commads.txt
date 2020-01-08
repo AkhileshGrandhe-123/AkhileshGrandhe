@@ -19,7 +19,7 @@ history - gives command history
 * - wildcard expansion
 more - view the contents of a text file one screen at a time
 less - similar to more but having some exceptions like we can use spacebar or arrow keys to scroll. when you want to quit less, you press the "q" key.
-
+Pwd Path of current working directory 
 find [-option] filename - tells location of the file
 grep text filename - prints the line of file having the text
 vi filename - open file in vi editor
